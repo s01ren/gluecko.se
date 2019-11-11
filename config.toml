@@ -1,0 +1,7 @@
+baseURL = "https://gluecko.se/"
+languageCode = "de-de"
+title = "gluecko.se"
+theme = "base16"
+pygmentsuseclasses = true
+enableEmoji = true
+enableInlineShortcodes = true
