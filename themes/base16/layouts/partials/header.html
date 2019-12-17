@@ -20,9 +20,25 @@
 
 <header>
   <div class="container clearfix">
-    <img src="../../img/logo.png" height="18px">
-    <a class="path" href="{{ .Site.BaseURL }}">[{{ .Site.Title }}]</a>
-    <span class="caret"># _</span>
+    <img src="{{ .Site.BaseURL }}/img/logo.png" height="18px">
+    <!-- <a class="path" href="{{ .Site.BaseURL }}">[{{ .Site.Title }}]</a> -->
+    <a style="text-decoration: none;"; href="{{ .Site.BaseURL }}">
+      <span class="site-title">
+        <span class="base05">[</span>
+        <span class="base08">g</span>
+        <span class="base09">l</span>
+        <span class="base0a">u</span>
+        <span class="base0b">e</span>
+        <span class="base0c">c</span>
+        <span class="base0d">k</span>
+        <span class="base0e">o</span>
+        <span class="base0f">.</span>
+        <span class="base03">s</span>
+        <span class="base04">e</span>
+        <span class="base05">]</span>
+        <span class="base05"># _</span>
+      </h3>
+    </a>
     <div class="right">
       <!--{{ range $i, $page := (where .Site.Pages "Section" "pages") }}
         {{ if not (eq $i 0) }}|{{ end }}
@@ -36,3 +52,5 @@
 </header>
 
 <div class="container">
+
+ 
