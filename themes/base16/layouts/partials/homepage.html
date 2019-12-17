@@ -5,7 +5,7 @@
 
   <h1 class="headline">Blog</h1>
 
-  {{ $paginator := .Paginate (where .Site.RegularPages "Section" "post") (or .Site.Params.paginate 3) }}
+  {{ $paginator := .Paginate (where .Site.RegularPages "Section" "post") (or .Site.Params.paginate 10) }}
   <div class="article-list">
     {{ range $paginator.Pages }}
       {{ partial "article-list-item.html" . }}
@@ -31,7 +31,7 @@
 
 {{ with .Site.Taxonomies.tags }}
 
-  <h1 class="headline">Tags</h1>
+  <!-- <h1 class="headline">Tags</h1>
 
   <section class="tags">
     {{ range $name, $value := . }}
@@ -40,7 +40,7 @@
       <small>({{ .Count }})</small>
     </span>
     {{ end }}
-  </section>
+  </section> -->
 
 {{ end }}
 
