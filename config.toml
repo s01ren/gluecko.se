@@ -8,3 +8,13 @@ enableInlineShortcodes = true
 
 [params]
 githubrepo = "https://github.com/s01ren/gluecko.se/"
+
+
+DefaultContentLanguage = "de"
+	[languages]
+    [languages.de]
+        languageName = "Auf Deutsch lesen"
+        weight = 1
+    [languages.en]
+        languageName = "Read in English"
+        weight = 2
