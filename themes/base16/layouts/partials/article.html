@@ -31,6 +31,12 @@
     <span class="val">
       <a href="{{.Site.Params.githubrepo}}edit/master/content/{{.File.Path}}" target="_blank">bei GitHub bearbeiten</a>
     </span>
+    <br>
+    {{ if .IsTranslated }}
+      <span class="val">
+        {{ range .Translations }} <a href="{{ .Permalink }}">{{ .Language.LanguageName }}</a> {{ end}}
+      </span>
+    {{ end }}
     <br><br>
 
 
