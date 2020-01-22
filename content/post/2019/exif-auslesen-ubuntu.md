@@ -3,7 +3,7 @@ title = "EXIF Daten unter Ubuntu auslesen"
 date = "2019-07-10"
 layout = ["article"]
 author = "soeren"
-tags = ["fotographie", "ubuntu"]
+tags = ["fotographie", "ubuntu", "open-source"]
 +++
 
 Heute nur ganz kurz, weil ich es gerade gesucht, [gefunden](https://mikebeach.org/2011/12/17/how-to-retrieve-exif-data-from-the-command-line-in-ubuntu-linux/) und vermutlich morgen wieder vergessen habe: Mit Hilfe von `imagemagick` könnt ihr unter [Ubuntu](/tags/ubuntu/) die exif-Daten eurer [Fotos](/tags/fotographie) auslesen.

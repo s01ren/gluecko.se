@@ -3,7 +3,7 @@ title = "OSM Daten als SVG exportieren"
 date = "2019-09-09"
 layout = ["article"]
 author = "soeren"
-tags = ["openstreetmaps", "python"]
+tags = ["openstreetmaps", "python", "open-source"]
 +++
 
 # OSM2XML

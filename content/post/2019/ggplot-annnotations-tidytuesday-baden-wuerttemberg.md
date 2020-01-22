@@ -3,7 +3,7 @@ title = "Etwas coolere ggplots erstellen"
 date = "2019-10-08"
 layout = ["article"]
 author = "soeren"
-tags = ["r", "tidytuesday", "baden-wuerttemberg", "ttbw"]
+tags = ["r", "tidytuesday", "baden-wuerttemberg", "ttbw", "open-source"]
 +++
 
 # TidyTuesday Baden-Württemberg

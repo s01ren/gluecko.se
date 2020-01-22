@@ -3,7 +3,7 @@ title = "Hilf mir (Rechtschreib-)Fehler zu beheben"
 date = "2019-11-11"
 layout = ["article"]
 author = "soeren"
-tags = ["github", "git", "hugo", "blog"]
+tags = ["github", "git", "hugo", "blog", "open-source"]
 +++
 
 Manchmal, aber wirklich nur manchmal, schreiben mir aufmerksame Leserinnen und Leser, dass ich mal wieder einen Text voller Rechtschreibfehler online gestellt hab. Meistens fällt mir mindestens einer direkt nach dem Veröffentlichen selbst auf ... 🙄

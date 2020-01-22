@@ -3,7 +3,7 @@ title = "Hugo mit Git auf dem uberspace nutzen"
 date = "2019-09-06"
 layout = ["article"]
 author = "soeren"
-tags = ["uberspace", "hugo", "blog", "git"]
+tags = ["uberspace", "hugo", "blog", "git", "open-source"]
 +++
 
 # Vorgeschichte

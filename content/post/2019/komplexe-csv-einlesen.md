@@ -3,7 +3,7 @@ title = "Komplexe CSV-Dateien einlesen"
 date = "2019-08-01"
 layout = ["article"]
 author = "soeren"
-tags = ["R"]
+tags = ["R", "open-source"]
 +++
 
 Natürlich gibt es einfachere Dinge, als Daten in R einzulesen. Und trotzdem ist es zumindest seit der Einführung des [`tidyverse`](https://www.tidyverse.org/) und den damit propagierten *tidy data principles* sehr viel einfacher geworden saubere Daten zu laden. Leider hat nicht jeder Sensor-Hersteller das [Paper von Hadley Wickem](https://www.jstatsoft.org/index.php/jss/article/view/v059i10/v59i10.pdf) gelesen.

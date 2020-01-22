@@ -3,7 +3,7 @@ title = "Lebenslauf mit Markdown erstellen"
 date = "2019-07-08"
 layout = ["article"]
 author = "soeren"
-tags = ["markdown", "ubuntu"]
+tags = ["markdown", "ubuntu", "open-source"]
 +++
 
 Zum Glück müssen die meisten von uns nicht jeden Tag den eigenen Lebenslauf zu Papier bringen. Wann genau war ich nochmal bei Firma X? Wie lang dauerte das Praktikum in München? Und wie war nochmal der genaue Titel der Bachelorarbeit? ... 
