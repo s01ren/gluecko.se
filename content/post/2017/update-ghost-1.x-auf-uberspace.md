@@ -13,7 +13,7 @@ Ein guter Anlass auszuprobieren, wie das Update auf die neue Version auf dem ube
 {{< rawhtml >}}
 <div style="padding:20px;margin:0px;box-shadow:0 10px 6px -6px #777;background-color:#4cb770;color:white;">
 <span style="font-size:100%;"><b>[update] Jetzt noch einfacher:</b><br>
-    Lies den <a href="/post/2017/bringe-ghost-mittels-shell-skript-auf-den-neusten-stand">neuen Beitrag</a> und lerne, wie du Ghost über ein Shell-Skript noch einfacher auf den neusten Stand bringen kannst.</span>
+    Lies den <a href="/post/2017/update-ghost-mit-shell-script">neuen Beitrag</a> und lerne, wie du Ghost über ein Shell-Skript noch einfacher auf den neusten Stand bringen kannst.</span>
 </div>
 <br>
 {{< /rawhtml >}}
